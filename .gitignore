@@ -1,0 +1,6 @@
+/.cache
+/.replit
+/.upm
+/node_modules
+/replit.nix
+/replit_zip_error_log.txt
